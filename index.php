@@ -1,5 +1,4 @@
 <?php
-echo ("getsms page ");
 // Update the path below to your autoload.php,
 require_once 'vendor/autoload.php';
 
